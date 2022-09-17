@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejuskohli
-- 👀 I’m interested in Game Dev and ML
-- 🌱 I’m currently learning C++, sk_learn and pandas.
+- 👀 I’m interested in Game Dev. I have no idea what ML stands for.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me tejuskohli12@gmail.com
 
 <!---
